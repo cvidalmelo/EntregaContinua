@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\PracticaFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\PracticaFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\PracticaFinal.csproj",
+        "projectName": "PracticaFinal",
+        "projectPath": "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\PracticaFinal.csproj",
         "packagesPath": "C:\\Users\\cvidal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\cvidal\\Documents\\Itla\\Enero-Abril 2026\\Electiva\\Practica final\\PracticaFinalDevOps\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
